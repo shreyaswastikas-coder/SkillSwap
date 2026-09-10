@@ -1,8 +1,5 @@
 # Skill Swap Platform
 
-**Team Name:** Team 1274
-**Selected Problem Statement:** Skill Swap Platform
-
 A modern web application that enables users to exchange skills with each other. Users can list their skills, search for others with specific skills, and request skill swaps in return.
 
 ## Features
